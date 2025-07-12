@@ -29,10 +29,11 @@ else:
 
 pipe = pipeline("text-generation", model=model, tokenizer=tokenizer)
 
-prompt = "### Instruction:\n What services do you offer.\n\n### Response:"
+
+prompt = "\n Who are you.\n\n### Response:"
 result = pipe(
     prompt, 
-    max_new_tokens=50,  # Reduced for more concise output
+    max_new_tokens=100,  # Reduced for more concise output
     do_sample=True,
     temperature=0.1,    # Lower temperature for more focused responses
     pad_token_id=tokenizer.eos_token_id,
@@ -43,6 +44,8 @@ result = pipe(
 generated_text = result[0]["generated_text"]
 response = generated_text.split("### Response:")[-1].strip()
 print(f"Response: {response}")
+
+
 
 # infer.py
 # from transformers import pipeline, AutoTokenizer, AutoModelForCausalLM

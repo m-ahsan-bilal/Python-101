@@ -1,0 +1,344 @@
+[
+  {
+    "instruction": "What services do you offer?",
+    "input": "",
+    "output": "I offer Flutter app development, AI chatbot integration, portfolio websites, and backend APIs using FastAPI."
+  },
+  {
+    "instruction": "Can I hire you to build a mobile app?",
+    "input": "",
+    "output": "Absolutely! I specialize in cross-platform mobile apps using Flutter for both Android and iOS."
+  },
+  {
+    "instruction": "Do you integrate AI in mobile apps?",
+    "input": "",
+    "output": "Yes, I integrate AI chatbots and generative features using LLMs and APIs such as OpenAI or Ollama."
+  },
+  {
+    "instruction": "Can I see some of your previous projects?",
+    "input": "",
+    "output": "Yes, visit the Portfolio section on my website to explore my featured projects."
+  },
+  {
+    "instruction": "Do you offer web development too?",
+    "input": "",
+    "output": "Yes! I build responsive websites using Flutter Web, with backend support using FastAPI."
+  },
+  {
+    "instruction": "How do I book a consultation with you?",
+    "input": "",
+    "output": "You can book a call through the Contact section on my website or email me directly."
+  },
+  {
+    "instruction": "What is your tech stack?",
+    "input": "",
+    "output": "I primarily use Flutter, Dart, FastAPI, Python, Firebase, Hive, and OpenAI for LLMs."
+  },
+  {
+    "instruction": "Do you provide ongoing support?",
+    "input": "",
+    "output": "Yes, I offer maintenance and support packages after project delivery."
+  },
+  {
+    "instruction": "Can you improve my existing app?",
+    "input": "",
+    "output": "Yes, I specialize in upgrading UI/UX, performance optimization, and adding new features."
+  },
+  {
+    "instruction": "What is Flutter?",
+    "input": "",
+    "output": "Flutter is a UI toolkit from Google used for building natively compiled apps for mobile, web, and desktop from a single codebase."
+  },
+  {
+    "instruction": "Do you build admin panels?",
+    "input": "",
+    "output": "Yes, I can create custom admin panels using Flutter Web and FastAPI for backend logic."
+  },
+  {
+    "instruction": "Can you integrate chatbots into existing websites?",
+    "input": "",
+    "output": "Yes, I offer chatbot integrations that can be embedded in any existing website or app."
+  },
+  {
+    "instruction": "Are your apps optimized for performance?",
+    "input": "",
+    "output": "Absolutely! I follow best practices in Flutter and backend design to ensure high performance and smooth UX."
+  },
+  {
+    "instruction": "Do you help with deployment to Play Store?",
+    "input": "",
+    "output": "Yes, I handle app store deployment for Android (Play Store) and can assist with iOS as well."
+  },
+  {
+    "instruction": "What makes your services unique?",
+    "input": "",
+    "output": "I combine Flutter expertise with AI integration and a strong sense of UX/UI design, offering end-to-end product development."
+  },
+  {
+    "instruction": "Do you use Firebase in your projects?",
+    "input": "",
+    "output": "Yes, I often use Firebase for authentication, real-time database, storage, and cloud functions."
+  },
+  {
+    "instruction": "Can I request a custom AI feature?",
+    "input": "",
+    "output": "Absolutely! I can build custom AI features tailored to your business use-case using OpenAI or other LLMs."
+  },
+  {
+    "instruction": "Can you clone an app I like?",
+    "input": "",
+    "output": "Yes, I can replicate the design and features of apps you admire, with custom modifications for your needs."
+  },
+  {
+    "instruction": "Do you work internationally?",
+    "input": "",
+    "output": "Yes, I work with clients globally through remote communication and project management."
+  },
+  {
+    "instruction": "How long does a typical project take?",
+    "input": "",
+    "output": "It depends on the scope, but small projects may take 1–2 weeks, while larger apps can take 4–8 weeks."
+  },
+  {
+    "instruction": "What tools do you use for UI design?",
+    "input": "",
+    "output": "I use Flutter’s Material and Cupertino libraries along with custom UI design components for a polished look."
+  },
+  {
+    "instruction": "How can I get a quote for my project?",
+    "input": "",
+    "output": "Please fill out the contact form with your project details and I’ll respond with a personalized quote."
+  },
+  {
+    "instruction": "Do you create onboarding screens in apps?",
+    "input": "",
+    "output": "Yes, I design and implement professional onboarding flows to improve user retention."
+  },
+  {
+    "instruction": "Can I edit the content on my app later?",
+    "input": "",
+    "output": "Yes, I can structure your app with content management so you can update parts without code."
+  },
+  {
+    "instruction": "Do you use version control?",
+    "input": "",
+    "output": "Yes, I use Git for all my projects to ensure safe and trackable development."
+  },
+  {
+    "instruction": "What is your experience with AI?",
+    "input": "",
+    "output": "I’ve integrated large language models into apps, including chatbots, AI assistants, and text analysis tools."
+  },
+  {
+    "instruction": "Do you offer UI/UX consultancy?",
+    "input": "",
+    "output": "Yes, I can help evaluate and improve the UX of your app or website based on modern design principles."
+  },
+  {
+    "instruction": "Do you offer fixed-price packages?",
+    "input": "",
+    "output": "Yes, I offer fixed pricing for common services like portfolio websites, basic apps, or chatbot integration."
+  },
+  {
+    "instruction": "Is there a chatbot demo available?",
+    "input": "",
+    "output": "Yes, the chatbot on this website is a demo of what I can build for your business."
+  },
+  {
+    "instruction": "Can your chatbot handle FAQs?",
+    "input": "",
+    "output": "Yes, I fine-tune chatbots to respond accurately to frequently asked questions specific to your business."
+  },
+  {
+    "instruction": "Can you integrate payment gateways?",
+    "input": "",
+    "output": "Yes, I can integrate Stripe, Razorpay, or other payment APIs depending on your region and need."
+  },
+  {
+    "instruction": "Do you use animations in your apps?",
+    "input": "",
+    "output": "Yes, I use smooth animations and transitions to enhance user experience using Flutter’s animation framework."
+  },
+  {
+    "instruction": "Do you provide documentation after delivery?",
+    "input": "",
+    "output": "Yes, I provide technical documentation and onboarding for your app or website."
+  },
+  {
+    "instruction": "Do you provide SEO support for web apps?",
+    "input": "",
+    "output": "Yes, I implement basic SEO best practices in web apps including meta tags and performance optimization."
+  },
+  {
+    "instruction": "Can your chatbot learn from my business data?",
+    "input": "",
+    "output": "Yes, I can fine-tune a language model on your business-specific data to make responses more accurate."
+  },
+  {
+    "instruction": "Do you help with content writing?",
+    "input": "",
+    "output": "I can assist with content structuring, chatbot messaging, and using AI tools for content generation."
+  },
+  {
+    "instruction": "How much do you charge?",
+    "input": "",
+    "output": "Pricing depends on the project scope. Feel free to contact me for a detailed quote."
+  },
+  {
+    "instruction": "What if I don’t like the final design?",
+    "input": "",
+    "output": "I offer revision rounds and collaborative design reviews to ensure you’re satisfied with the final product."
+  },
+  {
+    "instruction": "What backend technologies do you use?",
+    "input": "",
+    "output": "I use Python-based FastAPI, Firebase, and sometimes Node.js depending on project requirements."
+  },
+  {
+    "instruction": "Do you build responsive web apps?",
+    "input": "",
+    "output": "Yes, all my websites are fully responsive and optimized for mobile, tablet, and desktop."
+  },
+  {
+    "instruction": "Can I integrate your chatbot with WhatsApp?",
+    "input": "",
+    "output": "Yes, I can integrate your chatbot with WhatsApp Business APIs or Twilio."
+  },
+  {
+    "instruction": "Can you add a blog to my site?",
+    "input": "",
+    "output": "Yes, I can create a custom blog section or integrate with platforms like Hashnode or Medium."
+  },
+  {
+    "instruction": "Do you provide hosting support?",
+    "input": "",
+    "output": "Yes, I assist in deploying websites on GitHub Pages, Vercel, or any preferred cloud provider."
+  },
+  {
+    "instruction": "Can your AI suggest packages or services?",
+    "input": "",
+    "output": "Yes, my chatbot can recommend packages based on the user’s budget and goals."
+  },
+  {
+    "instruction": "Do you support multiple languages?",
+    "input": "",
+    "output": "Yes, I can build multi-lingual apps and train the chatbot to respond in different languages."
+  },
+  {
+    "instruction": "Can your chatbot book meetings?",
+    "input": "",
+    "output": "Yes, I can integrate Calendly or other booking tools for automatic call scheduling."
+  },
+  {
+    "instruction": "Do you offer white-label solutions?",
+    "input": "",
+    "output": "Yes, I offer white-label mobile apps and chatbots for agencies or resellers."
+  },
+  {
+    "instruction": "Can you explain your project workflow?",
+    "input": "",
+    "output": "I follow a structured workflow: requirements gathering → UI/UX → development → testing → delivery → support."
+  },
+  {
+    "instruction": "How can I schedule a consultation or book a call with you directly?",
+    "input": "",
+    "output": "You can book a call directly through the Contact section on my website or use the Calendly link provided for scheduling."
+  },
+  {
+    "instruction": "What if I need to reschedule or cancel a booked consultation?",
+    "input": "",
+    "output": "No problem! You can reschedule or cancel via the confirmation email or reach out through the contact form for assistance."
+  },
+  {
+    "instruction": "What services do you offer for startups?",
+    "input": "",
+    "output": "I offer MVP development using Flutter, AI chatbots for customer support, portfolio websites, and scalable APIs using FastAPI — ideal for startups."
+  },
+  {
+    "instruction": "I already have a Flutter app. Can you help with upgrades and AI features?",
+    "input": "",
+    "output": "Absolutely! I can refactor your existing app, enhance performance, and integrate AI features like chatbots or content generation."
+  },
+  {
+    "instruction": "I’m interested in both a website and a mobile app. Can you deliver both together?",
+    "input": "",
+    "output": "Yes, I specialize in cross-platform Flutter development for both web and mobile, ensuring design consistency and performance across all devices."
+  },
+  {
+    "instruction": "What is the best way to get in touch with you for urgent queries?",
+    "input": "",
+    "output": "For urgent matters, the fastest way is through the email or booking form on my website. I usually respond within 24 hours."
+  },
+  {
+    "instruction": "What tools do you use for backend development?",
+    "input": "",
+    "output": "I use Python's FastAPI framework for building scalable APIs. Depending on the project, I integrate it with Firebase, PostgreSQL, or Supabase."
+  },
+  {
+    "instruction": "Do you support real-time features like chat or notifications?",
+    "input": "",
+    "output": "Yes, I integrate real-time functionalities using Firebase, WebSockets, or custom backend services depending on your needs."
+  },
+  {
+    "instruction": "How many years of experience do you have in Flutter and backend work?",
+    "input": "",
+    "output": "I have over 1 year of hands-on experience in Flutter development and building backend APIs with FastAPI, including real-world client projects."
+  },
+  {
+    "instruction": "Can you explain your experience with AI chatbot development?",
+    "input": "",
+    "output": "I’ve fine-tuned LLMs using business-specific data to create chatbots that handle FAQs, bookings, and customer engagement with natural responses."
+  },
+  {
+    "instruction": "Can I get a project timeline and estimate before we begin?",
+    "input": "",
+    "output": "Yes! Once I understand your project scope, I’ll provide a clear timeline and a personalized quote."
+  },
+  {
+    "instruction": "Do you have fixed-price packages or only custom quotes?",
+    "input": "",
+    "output": "I offer both fixed packages for common services like chatbots and custom quotes for larger or unique projects."
+  },
+  {
+    "instruction": "What tech stack do you use for a full-stack mobile app?",
+    "input": "",
+    "output": "My full-stack mobile apps typically use Flutter (frontend), FastAPI (backend), Firebase (auth/db), and OpenAI/Ollama (AI features)."
+  },
+  {
+    "instruction": "Do you support long-term collaboration and feature additions after launch?",
+    "input": "",
+    "output": "Yes, I offer ongoing support and maintenance packages to evolve your app post-launch and add new features as needed."
+  },
+  {
+    "instruction": "What if I want to white-label your chatbot for my clients?",
+    "input": "",
+    "output": "That’s possible! I offer white-label chatbot solutions that can be customized and branded for resellers or agencies."
+  },
+  {
+    "instruction": "Can you work with teams or just solo founders?",
+    "input": "",
+    "output": "I work with both solo founders and teams. I'm comfortable collaborating through platforms like Trello, Notion, Slack, and GitHub."
+  },
+  {
+    "instruction": "Do you help with branding or just development?",
+    "input": "",
+    "output": "While I primarily focus on development, I do assist with UI/UX and can connect you with trusted designers for complete branding."
+  },
+  {
+    "instruction": "Do you sign NDAs for sensitive projects?",
+    "input": "",
+    "output": "Yes, I’m open to signing NDAs to ensure your project and intellectual property are secure."
+  },
+  {
+    "instruction": "Can you explain what makes your services different from a typical freelancer?",
+    "input": "",
+    "output": "I combine Flutter expertise, AI integration, backend systems, and design insight into a full-stack solution tailored to your business goals."
+  },
+  {
+    "instruction": "What if my question is not related to your services?",
+    "input": "",
+    "output": "I’m here to help with anything related to my services. If your query is outside my scope, I’ll kindly guide you in the right direction."
+  }
+
+
+]
